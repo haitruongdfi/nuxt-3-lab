@@ -11,7 +11,7 @@ console.log(runtimeConfig.apiSecret);
   <p>{{ appConfig.theme.colors.primary }}</p>
   <p>{{ runtimeConfig.public.apiBase }}</p>
   <div>
-    <h1>Welcome to the homepage</h1>
+    <h1>ホームページへようこそ</h1>
 
     <AppAlert> This is an auto-imported component </AppAlert>
   </div>
